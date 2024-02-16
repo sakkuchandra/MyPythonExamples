@@ -1,0 +1,6 @@
+Exception Handling:
+
+while creating programmes in pythons, we may face abnormal terminations due to invalid operations what we created. if any operation created like that, system stops the executions and then terminates from the programme.
+so that to identify such type of issues developer should use a concept called exception handling. 
+
+    So while creating programmes in python, developer should include the complete code in try block. so any created operation is failed while executing the programme, system generates exception and pass it the except block which should follow try block.

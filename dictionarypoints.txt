@@ -1,0 +1,42 @@
+	reading keys and values:
+
+	after dictionary is created we are able to get the data either in the form 	of keys as well values by using related methods which are given in python           when keys needed to display from the created dictionary, then we should use         a function called keys(), which returns the keys.
+     
+           To read values only without using any keys then another predefined            function should be used. values function should be used on the            dictionary varaible. so that it returns what are the values presented
+           in the specified dictionary.
+          
+            To read the data in the  form of both keys and values from the             specified dictionary, the another predefined function is given
+            from python, i.e items(), which will return all the keys and values
+            together.
+
+
+         from the created dictionary, to get the keys as well values for loop
+         should be used, while using for loop, we will get keys initially and then
+         should pass key for the dictionary variable so that it will return 
+         associated values from the specified dictionary.
+
+
+        After dictionary is created,any data is needed to add for the existed
+        dictionary, we are able to add them for the created dictionary by using
+        one of the predefined methods called update. that method will take the
+        data in the form of key and value as parameters. what are the values passed
+        as parameters, dictionary updates with that data.
+        
+
+       
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
